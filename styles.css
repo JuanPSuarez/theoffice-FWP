@@ -1,4 +1,4 @@
-.div {
+#aboutus_text {
     background-color: blue;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
@@ -8,5 +8,5 @@ body {
     background-color: brown;
     font-size: medium;
     font-weight: lighter;
-    
+
 }
